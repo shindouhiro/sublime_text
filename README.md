@@ -140,5 +140,6 @@ sublime_text
 </table>
 ##插件
 Emmet html/CSS
-快速编辑（原名Zen Coding）
+快速编辑（原名Zen Coding）  
+其他的看自己需求百度(几乎无所不有，这就是sublime强大的原因之一)
 
