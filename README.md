@@ -139,3 +139,6 @@ sublime_text
 		</tr>
 </table>
 ##插件
+Emmet html/CSS
+快速编辑（原名Zen Coding）
+
