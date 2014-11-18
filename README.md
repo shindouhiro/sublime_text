@@ -2,6 +2,7 @@ sublime_text
 ============
 
 #快捷键与插件介绍
+##快捷
 
 <table>
     <tr>
@@ -137,4 +138,4 @@ sublime_text
 			<td>行排序(按a-z)</td>
 		</tr>
 </table>
-
+##插件
