@@ -3,7 +3,7 @@ sublime_text
 
 #快捷键与插件介绍
 ##快捷
-
+(sublime.html)
 <table>
     <tr>
 			<td>Ctrl+L</td>
@@ -139,7 +139,8 @@ sublime_text
 		</tr>
 </table>
 ##插件
-Emmet html/CSS
+Emmet html/CSS(使用方法emmet.html)
 快速编辑（原名Zen Coding）  
 其他的看自己需求百度(几乎无所不有，这就是sublime强大的原因之一)
+
 
