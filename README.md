@@ -146,7 +146,7 @@ Emmet html/CSS(使用方法emmet.html)
 
 #Emmet快捷键
 简写Div
-```
+```php
 type this:
 div.container
 
