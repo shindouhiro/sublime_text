@@ -217,7 +217,10 @@ get this:
 <div class="two">
 	<h1></h1>
 </div>
+```
 
+4. 使用分组来简化你的代码结构
+```php
 type this:
 (section>.wrap>h1>p>a)+(section>.wrap>p+p)
 
@@ -237,5 +240,67 @@ get this:
 </section>
 ```
 
+5. 插入文本和属性
+```php
+type this:
+h1{Heading}+p{lorem ipsum}
+
+get this:
+<h1>Heading</h1>
+<p>lorem ipsum</p>
+
+type this:
+a[href="http://www.apple.com"]{Apple}
+
+get this:
+<a href="http://www.apple.com">Apple</a>
+```
+
+6. 添加多个class到一个元素
+```php
+type this:
+.one.two.three
+
+get this:
+<div class="one two three"></div>
+```
+
+7.  重复添加
+```php
+type this:
+ul>li*3
+
+get this:
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+type this:
+(section>.wrap)*2
+
+get this:
+<section>
+	<div class="wrap"></div>
+</section>
+<section>
+	<div class="wrap"></div>
+</section>
+```
+
+8. 自动列表记数
+```php
+
+type this:
+ul>li.item${item $$}*3
+
+get this:
+<ul>
+	<li class="item1">item 01</li>
+	<li class="item2">item 02</li>
+	<li class="item3">item 03</li>
+</ul>
+```
 
 
