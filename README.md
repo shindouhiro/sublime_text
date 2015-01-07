@@ -176,6 +176,16 @@ get this:
 * ^ 向上层：向上一层添加创建创建一个元素。
 
 ```php
+type this:
+.outer>.inner>h1+p
+
+get this:
+<div class="outer">
+	<div class="inner">
+		<h1></h1>
+		<p></p>
+	</div>
+</div>
 ```
 
 
