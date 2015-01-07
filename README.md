@@ -186,6 +186,56 @@ get this:
 		<p></p>
 	</div>
 </div>
+
+
+type this:
+.warp>p>a^p
+
+get this:
+<div class="warp">
+	<p><a href=""></a></p>
+	<p></p>
+</div
+
+
+type this:
+.wrap>p>em>a^^p
+
+get this:
+<div class="wrap">
+	<p><em><a href=""></a></em></p>
+	<p></p>
+</div>
+
+type this:
+(.one>h1)+(.two>h1)
+
+get this:
+<div class="one">
+	<h1></h1>
+</div>
+<div class="two">
+	<h1></h1>
+</div>
+
+type this:
+(section>.wrap>h1>p>a)+(section>.wrap>p+p)
+
+get this:
+<section>
+	<div class="wrap">
+		<h1>
+			<p><a href=""></a></p>
+		</h1>
+	</div>
+</section>
+<section>
+	<div class="wrap">
+		<p></p>
+		<p></p>
+	</div>
+</section>
 ```
+
 
 
