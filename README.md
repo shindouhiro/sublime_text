@@ -145,7 +145,7 @@ Emmet html/CSS(使用方法emmet.html)
 
 
 #Emmet快捷键
-简写Div
+1.简写Div
 ```php
 type this:
 div.container
@@ -156,4 +156,26 @@ or this:
 get this:
 <div class="container"></div>
 ```
+
+2.含糊标签名称
+```php
+type this:
+.wrap>ul.list>.sites
+
+get this:
+<div class="wrap">
+	<ul class="list">
+		<li class="sites"></li>
+	</ul>
+</div>
+```
+
+3.带有DOM导航的链式缩写
+* > 子节点：在DOM树下一层添加创建一个元素
+* + 同级别：在DOM树同一层添加创建一个元素
+* ^ 向上层：向上一层添加创建创建一个元素。
+
+```php
+```
+
 
