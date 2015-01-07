@@ -173,7 +173,7 @@ get this:
 3.带有DOM导航的链式缩写
 * > 子节点：在DOM树下一层添加创建一个元素
 * + 同级别：在DOM树同一层添加创建一个元素
-* ^ 向上层：向上一层添加创建创建一个元素。
+* ^ 向上层：向上一层添加创建创建一个元素
 
 ```php
 type this:
@@ -255,7 +255,6 @@ a[href="http://www.apple.com"]{Apple}
 get this:
 <a href="http://www.apple.com">Apple</a>
 ```
-
 6. 添加多个class到一个元素
 ```php
 type this:
