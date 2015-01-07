@@ -144,3 +144,16 @@ Emmet html/CSS(使用方法emmet.html)
 其他的看自己需求百度(几乎无所不有，这就是sublime强大的原因之一)
 
 
+#Emmet快捷键
+简写Div
+```
+type this:
+div.container
+
+or this:
+.container
+
+get this:
+<div class="container"></div>
+```
+
