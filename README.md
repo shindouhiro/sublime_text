@@ -142,7 +142,7 @@ sublime_text
 Emmet html/CSS(使用方法emmet.html)  
 快速编辑（原名Zen Coding）  
 其他的看自己需求百度(几乎无所不有，这就是sublime强大的原因之一)
-[最近找到了一个介绍很全的地址]:http://zh.lucida.me/blog/sublime-text-complete-guide/
+[最近找到了一个介绍很全的地址](http://zh.lucida.me/blog/sublime-text-complete-guide/)
 
 #Emmet快捷键
 1.简写Div
