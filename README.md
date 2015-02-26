@@ -328,7 +328,7 @@ com+‘  删除内容所在的标签
 tools -> build system -> new build system 
 "cmd": ["/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "$file"]
 ----可com+b快速打开浏览器
-com+shift+p 输入key 选择 user
+com+shift+p 输入key 选择 user 设置erb快捷键
 
 [	
 
@@ -336,7 +336,7 @@ com+shift+p 输入key 选择 user
 
 ]
 
-设置erb快捷键
+
 ```
 [HappyPeter插件讲解视频](http://happycasts.net/episodes/111)
 
