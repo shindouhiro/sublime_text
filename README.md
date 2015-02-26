@@ -301,5 +301,42 @@ get this:
 	<li class="item3">item 03</li>
 </ul>
 ```
+[Emmet](http://docs.emmet.io/)
+```
+AdvancedNewFile-快速创建目录插件-alt+com+n
+AutoFilename 自动补齐文件路劲
+com+shift+p  打开命令行面板
+control+w  为所在内容增加标签
+com+‘  删除内容所在的标签
 
+"AdvancedNewFile",快速创建目录插件-alt+com+n
+
+"Emmet",快速生成HTML（详细看手册）
+
+"Git",（不解释）
+
+"Package Control",（包管理）
+
+"RailsCasts Colour Scheme",
+
+"Sass",（不解释）
+
+"SublimeERB",（快速成事<%= %>）
+
+"SyncedSideBar"（侧边栏同步高亮）
+
+tools -> build system -> new build system 
+"cmd": ["/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "$file"]
+----可com+b快速打开浏览器
+com+shift+p 输入key 选择 user
+
+[	
+
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+
+]
+
+设置erb快捷键
+```
+[HappyPeter插件讲解视频](http://happycasts.net/episodes/111)
 
