@@ -302,7 +302,7 @@ get this:
 </ul>
 ```
 [Emmet](http://docs.emmet.io/)
-```
+```html
 AdvancedNewFile-快速创建目录插件-alt+com+n
 AutoFilename 自动补齐文件路劲
 com+shift+p  打开命令行面板
