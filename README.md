@@ -339,5 +339,5 @@ com+shift+p 输入key 选择 user 设置erb快捷键
 
 ```
 [HappyPeter插件讲解视频](http://happycasts.net/episodes/111)
-[sublime手册]（http://docs.sublimetext.tw/file-management-and-command-palette/#goto-anything）
+[sublime手册](http://docs.sublimetext.tw/file-management-and-command-palette/#goto-anything)
 
